@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "site_base_path": "/app-policies/",
+  "apps": [
+    {
+      "slug": "arrival-alarm",
+      "name": "내릴 때 깨워줘",
+      "source_version_reviewed": "1.7.0",
+      "status": "pending-review",
+      "approved": false,
+      "operator": "서봉석",
+      "privacy_contact": "seok247@gmail.com",
+      "requested_effective_date": "2026-10-19",
+      "effective_date": null,
+      "policy_url": "https://seok2417-crypto.github.io/app-policies/arrival-alarm/"
+    }
+  ]
+}
